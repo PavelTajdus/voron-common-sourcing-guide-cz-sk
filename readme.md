@@ -48,15 +48,18 @@ https://www.aliexpress.com/item/1005002509850925.html
 https://rpishop.cz/emmc-micro-sd/3426-uugear-raspikey-32gb-emmc-pamet-pro-raspberry-pi.html
 
 # Hardware
-## Profily a spojky
+## Profily
 
 ## Spojovací materiál
+### Šrouby a matice
+https://eshop.killich.cz/eshop/spojovaci-material/srouby-zatky/imbusy-vnitrni-sestihran/
+https://www.prumex.cz/spojovaci-material-srouby-s-valcovou-hlavou/
+
 ### T-nut
 https://www.aliexpress.com/item/4000464713908.html   
 https://www.aliexpress.com/item/32851320734.html   
 
-## Lineární vedení
-https://www.igus.cz/drylin/rail-guide    
+## Lineární vedení 
 
 ## Zakrytování tiskárny
 https://www.obalove-materialy.cz/kartonplastovy-proklad-3-mm-80-120-cm-transparentni-600-g   
