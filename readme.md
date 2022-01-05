@@ -65,7 +65,7 @@ https://www.aliexpress.com/item/32851320734.html
 https://www.obalove-materialy.cz/kartonplastovy-proklad-3-mm-80-120-cm-transparentni-600-g   
 
 ### Magnety
-https://www.aliexpress.com/item/1005002509850925.html   
+https://www.unimagnet.cz/kt-06-03-n_z322/
 
 ## Titanium Extrusion Backers
 [Vonwage.com](https://vonwange.com/?s=backers&jet_ajax_search_settings=%7B%22results_order_by%22%3A%22relevance%22%2C%22results_order%22%3A%22asc%22%2C%22search_source%22%3A%22any%22%7D)
