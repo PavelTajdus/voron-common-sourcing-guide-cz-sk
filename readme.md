@@ -80,7 +80,7 @@ Threaded heatset insert tool - [Amazon](https://www.amazon.de/-/en/Turmberg3D-so
 
 [Wera bit imbus 2.5](https://www.boukal.cz/wera-059604-bit-inbus-2-5-mm-840-4-z-hex-plus-sroubovaci-bit-1-4-hex-50-mm-pro-srouby-s-vnitrnim-sestihranem/76505/produkt)
 
-[Sada malých Wera hex imbus šrobovakov - boukal.cz](https://www.boukal.cz/wera-118156-sroubovaky-pro-elektroniku-kraftform-micro-2052-6-sada-6-ks-a-stojanek/15784/produkt\)
+[Sada malých Wera hex imbus šrobovakov - boukal.cz](https://www.boukal.cz/wera-118156-sroubovaky-pro-elektroniku-kraftform-micro-2052-6-sada-6-ks-a-stojanek/15784/produkt)
 
 Rôzne bity - [Aliexpress](https://www.aliexpress.com/item/1005002950902853.html) - [Aliexpress](https://www.aliexpress.com/item/1005002846230314.html)
 
